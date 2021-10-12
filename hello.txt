@@ -13,3 +13,4 @@ hotfix +1
 hotfix  =2 master 修改1
 hotfix  =2 "修改2' hotfix分支:
 pull code test
+pull code ssh
